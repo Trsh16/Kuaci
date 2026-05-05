@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 250" width="200" height="250">
+  <rect width="200" height="250" fill="#FFD6E0"></rect>
+  <circle cx="60" cy="180" r="50" fill="#FF6FA5" opacity="0.5"></circle>
+  <circle cx="140" cy="80" r="30" fill="#FF4D6D" opacity="0.6"></circle>
+  <text x="100" y="125" text-anchor="middle" font-family="Caveat" font-size="22" fill="#2B2233" opacity="0.5">love era ♡</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80" width="220" height="80">
+  
+  <g transform="translate(0 0) scale(0.85)">
+    <g transform="translate(26 12)">
+      <ellipse cx="0" cy="28" rx="9" ry="28" fill="#3D2818" stroke="#1A0F08" stroke-width="2.5"></ellipse>
+      <ellipse cx="-2" cy="28" rx="2" ry="22" fill="#5A3D26" opacity="0.6"></ellipse>
+    </g>
+    <g transform="translate(48 26) rotate(40)">
+      <ellipse cx="0" cy="0" rx="6.5" ry="18" fill="#3D2818" stroke="#1A0F08" stroke-width="2.5"></ellipse>
+      <ellipse cx="-1.5" cy="0" rx="1.5" ry="14" fill="#5A3D26" opacity="0.6"></ellipse>
+    </g>
+    <g transform="translate(48 54) rotate(-40)">
+      <ellipse cx="0" cy="0" rx="6.5" ry="18" fill="#3D2818" stroke="#1A0F08" stroke-width="2.5"></ellipse>
+      <ellipse cx="-1.5" cy="0" rx="1.5" ry="14" fill="#5A3D26" opacity="0.6"></ellipse>
+    </g>
+  </g>
+  
+  <text x="78" y="52" font-family="Fredoka, Quicksand, sans-serif" font-weight="600" font-size="38" fill="#2B2233" letter-spacing="-0.5">uaci</text>
+</svg>
