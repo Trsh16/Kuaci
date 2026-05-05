@@ -28,6 +28,21 @@
     "plugins": [
       "expo-router",
       [
+        "expo-camera",
+        { "cameraPermission": "Kuaci needs camera access to take photobooth shots." }
+      ],
+      [
+        "expo-image-picker",
+        { "photosPermission": "Kuaci needs photo library access to add cards to your binders." }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Kuaci needs photo library access to save your creations.",
+          "savePhotosPermission": "Kuaci needs permission to save photos to your library."
+        }
+      ],
+      [
         "expo-splash-screen",
         {
           "image": "./assets/images/splash-icon.png",
